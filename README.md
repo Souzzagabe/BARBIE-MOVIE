@@ -1,13 +1,6 @@
 <h1 align="center">
   Recriando o site da Barbie
 </h1>
-
-<p align="center">
-  <img src=".github/preview.png" width="100%" />
-</p>
-
-## 💻 Projeto
-
 Link do site oficial: [barbiefilme.com.br](https://www.barbiefilme.com.br/home/).
 
 ## 🚀 Tecnologias
